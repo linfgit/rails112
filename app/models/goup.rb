@@ -1,0 +1,2 @@
+class Goup < ApplicationRecord
+end
